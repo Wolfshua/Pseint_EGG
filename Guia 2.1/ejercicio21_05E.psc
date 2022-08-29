@@ -1,4 +1,4 @@
-Algoritmo ejercicio_2_5E
+Algoritmo ejercicio21_05E
 	
 	Definir  num como entero
 	

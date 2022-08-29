@@ -1,4 +1,4 @@
-Algoritmo ejercicio_2_6E
+Algoritmo ejercicio21_06E
 	
 	Definir anio, mes, dia,val Como Entero
 	
