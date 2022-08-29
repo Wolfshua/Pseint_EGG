@@ -1,4 +1,4 @@
-Algoritmo Ejercicio_2_2E
+Algoritmo Ejercicio21_2E
 	
 	Definir mes Como Caracter
 	Definir importe,total Como Real

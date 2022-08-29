@@ -1,4 +1,4 @@
-Algoritmo Ejercicio_2_7
+Algoritmo Ejercicio21_07A
 	
 	Definir frase,subfrase Como Caracter
 	

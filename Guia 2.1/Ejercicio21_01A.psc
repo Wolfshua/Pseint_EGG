@@ -1,4 +1,4 @@
-Algoritmo Ejercicio_2_1
+Algoritmo Ejercicio21_1
 	
 	Definir sueldo,sueldo_min Como Real
 	
