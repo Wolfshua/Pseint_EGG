@@ -47,15 +47,18 @@ SubProceso imprimirMatriz(Matrz Por Referencia,fila,nombre)
 		SiNo
 			Escribir Sin Saltar numespacios
 		FinSi
-		Para j<-0 Hasta 2 Con Paso 1 Hacer
-			Escribir Sin Saltar Matrz[i,j]
-			Segun j Hacer
-				0:
-					Escribir Sin Saltar  " + "
-				1:
-					Escribir Sin Saltar  " = "
-			Fin Segun
-		Fin Para
+		escribir sin saltar Matrz(i,0), " + "
+		escribir sin saltar Matrz(i,1), " = "
+		escribir sin saltar Matrz(i,2)
+//		Para j<-0 Hasta 2 Con Paso 1 Hacer
+//			Escribir Sin Saltar Matrz[i,j]
+//			Segun j Hacer
+//				0:
+//					Escribir Sin Saltar  " + "
+//				1:
+//					Escribir Sin Saltar  " = "
+//			Fin Segun
+//		Fin Para
 		Escribir ""
 	Fin Para
 	
