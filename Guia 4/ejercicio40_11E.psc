@@ -24,15 +24,15 @@ SubProceso imprimirMatriz(Matrz Por Referencia,fila,columna)
 	
 	Para i<-0 Hasta fila-1 Con Paso 1 Hacer
 		si i=0 Entonces
-			Escribir Sin Saltar "Matriz = | "
+			Escribir Sin Saltar "Matriz =   "
 		FinSi
 		Para j<-0 Hasta columna-1 Con Paso 1 Hacer
 			si j=0 y i<>0 Entonces
-				Escribir Sin Saltar "         | "
+				Escribir Sin Saltar "           "
 			FinSi
 			Escribir Sin Saltar Matrz[i,j] " "
 		Fin Para
-		Escribir "|"
+		Escribir " "
 	Fin Para
 	
 FinSubProceso
